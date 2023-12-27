@@ -1,4 +1,4 @@
-* [🏰 Engine Tribe](/)
+* [🏡 Inicio](/)
 * [🗄️ Deploy Engine Tribe](/deploy.md "Deploy Engine Tribe")
 * [🤖 Engine Bots](/bots/ "Engine Bots")
   * [🎮 Discord](/bots/discord.md "Engine Bot for Discord")
