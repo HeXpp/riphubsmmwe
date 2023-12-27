@@ -23,6 +23,6 @@ window.$docsify = {
             });
         }
     ],
-    fallbackLanguages: ['es-es', 'zh-cn'],
+    fallbackLanguages: ['es-es'],
 
 };
